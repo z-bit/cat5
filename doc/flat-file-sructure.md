@@ -30,6 +30,6 @@
     		    module-name.reducer.ts 
     		    index.ts
 
-btw.:
-* actions are classes:  import * as ModuleName from './module-name.actions'
-* reducer is function:  import * as moduleName from './module.reducer';
+
+    actions are classes:  import * as ModuleName from './module-name.actions'
+    reducer is function:  import * as moduleName from './module.reducer';
