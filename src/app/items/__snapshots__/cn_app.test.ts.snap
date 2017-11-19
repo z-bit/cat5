@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppComponent (app-root) should compile 1`] = `
+<app-root>
+  <section>
+    
+    
+    <header>
+      
+      
+      <mat-toolbar
+        color="primary"
+      >
+        
+        
+        <mat-icon
+          class="icon"
+        >
+          menu
+        </mat-icon>
+        
+        
+        <span>
+          Base5
+        </span>
+        
+        
+        <span
+          class="spacer"
+        />
+        
+      
+      </mat-toolbar>
+      
+    
+    </header>
+    
+    
+    <main>
+      
+      
+      <mat-sidenav-container>
+        
+  
+        
+        <router-outlet />
+        
+  
+        
+        <mat-sidenav>
+          Sidenav
+        </mat-sidenav>
+        
+      
+      </mat-sidenav-container>
+      
+    
+    </main>
+    
+    
+    <mat-toolbar
+      class="footer"
+      color="primary"
+    >
+      Schmolck GmbH & Co. KG
+    </mat-toolbar>
+    
+  
+  </section>
+</app-root>
+`;

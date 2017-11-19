@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppComponent (app-root) should compile 1`] = `
+<app-home>
+  <h1>
+    Home
+  </h1>
+</app-home>
+`;
