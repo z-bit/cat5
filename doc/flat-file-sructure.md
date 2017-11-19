@@ -25,4 +25,7 @@
     			sv_login.service.ts
     			sv_login.spec.ts
     		store/
-    		
+    		    module-name.actions.ts (actions are classes: import * as ModuleName from './module-name.actions'
+    		    module-name.effects.ts 
+    		    module-name.reducer.ts (reducer is function: import * as moduleName from './module.reducer'
+    		    intex.ts
